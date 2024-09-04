@@ -29,6 +29,8 @@ Si quieres añadir más modelos de sillas personalizadas, puedes editar el archi
 ## 🛠️ Soporte:
 Si tienes problemas o sugerencias, no dudes en abrir un **issue** o contribuir al proyecto.
 
+Discord: https://discord.gg/hYgvFQBEWJ
+
 
 link pendiente de aprobacion de tienda tebex
 
